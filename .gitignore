@@ -1,6 +1,3 @@
-# 빌드 결과물 (tsup output)
-dist/
-
 # Node 패키지
 node_modules/
 
