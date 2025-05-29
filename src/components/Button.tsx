@@ -13,7 +13,7 @@ export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   disabled?: boolean;
 }
 
-export default function Button({
+export function Button({
   children,
   maxWidth = "",
   height = 56,
